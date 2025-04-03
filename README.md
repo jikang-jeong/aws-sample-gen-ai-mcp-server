@@ -1,8 +1,8 @@
-## 🚀 Sample Model Context Protocol Demos
+This sample code project is a fork from [https://github.com/githu.codfad](https://github.com/aws-samples/Sample-Model-Context-Protocol-Demos]'s repository.
 
-GitHub folk: https://github.com/aws-samples/Sample-Model-Context-Protocol-Demos
+add postgres db-conn sample
+add web search (wikipedia) sample
 
-### postgres mcp-server를 추가했습니다. ###
 
 ### ✅ Prerequisites
 - Python 3.13+
