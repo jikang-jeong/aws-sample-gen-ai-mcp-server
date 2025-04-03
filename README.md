@@ -1,7 +1,7 @@
-This sample code project is a fork from [https://github.com/githu.codfad](https://github.com/aws-samples/Sample-Model-Context-Protocol-Demos]'s repository.
+This sample code project is a fork from [https://github.com/aws-samples/Sample-Model-Context-Protocol-Demos]'s repository.
 
-add postgres db-conn sample
-add web search (wikipedia) sample
+- add postgres db-conn sample
+- add web search (wikipedia) sample
 
 
 ### ✅ Prerequisites
